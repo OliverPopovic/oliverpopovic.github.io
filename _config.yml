@@ -1,1 +1,6 @@
-
+title: Ollie’s Notes
+description: Reflections on AI, language, and the human condition
+theme: minima
+author: Ollie
+show_excerpts: true
+markdown: kramdown
